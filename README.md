@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+PostgreSQL+%7C+Next.js;Oracle-certified+in+Generative+AI+%F0%9F%A4%96;Building+real-time+and+LLM-powered+apps" alt="Typing animation" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amanbansal1506&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/aman-bansal-464b6a270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/amanbansa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://amanbansal1506.github.io/VibeConnect/"><img src="https://img.shields.io/badge/VibeConnect-Live_Demo-8957E5?style=for-the-badge&logo=socketdotio&logoColor=white" alt="VibeConnect live demo" /></a>
