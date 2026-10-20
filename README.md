@@ -79,20 +79,6 @@ timeline
 
 <img src="https://streak-stats.demolab.com?user=amanbansal1506&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanbansal1506&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanbansal1506/amanbansal1506/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanbansal1506/amanbansal1506/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/amanbansal1506/amanbansal1506/output/github-snake.svg" />
-</picture>
-
 </div>
 
 ## 🧩 LeetCode
