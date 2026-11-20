@@ -55,7 +55,7 @@ timeline
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/amanbansal1506/NetworX"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanbansal1506&repo=NetworX&theme=tokyonight&hide_border=true" alt="NetworX" /></a>
+  <a href="https://github.com/amanbansal1506/networx-frontend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanbansal1506&repo=NetworX&theme=tokyonight&hide_border=true" alt="NetworX" /></a>
   <a href="https://github.com/amanbansal1506/TripGenie"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanbansal1506&repo=TripGenie&theme=tokyonight&hide_border=true" alt="TripGenie" /></a>
   <a href="https://github.com/amanbansal1506/VibeConnect"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanbansal1506&repo=VibeConnect&theme=tokyonight&hide_border=true" alt="VibeConnect" /></a>
 </p>
