@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/aman-bansal-464b6a270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/amanbansa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://amanbansal1506.github.io/VibeConnect/"><img src="https://img.shields.io/badge/VibeConnect-Live_Demo-8957E5?style=for-the-badge&logo=socketdotio&logoColor=white" alt="VibeConnect live demo" /></a>
-<a href="https://networx-frontend.vercel.app/"><img src="https://img.shields.io/badge/VibeConnect-Live_Demo-8957E5?style=for-the-badge&logo=socketdotio&logoColor=white" alt="NetworX live demo" /></a>
+<a href="https://networx-frontend.vercel.app/"><img src="https://img.shields.io/badge/NetworX-Live_Demo-8957E5?style=for-the-badge&logo=socketdotio&logoColor=white" alt="NetworX live demo" /></a>
 
 </div>
 
